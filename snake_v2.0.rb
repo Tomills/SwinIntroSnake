@@ -1,3 +1,5 @@
+#last edited on pc
+
 require 'rubygems'
 require 'gosu'
 
