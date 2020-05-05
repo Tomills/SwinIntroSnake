@@ -1,5 +1,3 @@
-#last edited on mac 
-
 require 'rubygems'
 require 'gosu'
 
